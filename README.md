@@ -18,8 +18,10 @@
 
 2.task list
 
-[x] task1
+- [x] task1
+- [ ] task2
+- [ ] Add delight to the experience when all tasks are complete :tada:
 
-[] task2
+[google](www.google.com)
 
-[] tast3
+
